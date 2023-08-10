@@ -1,0 +1,24 @@
+.counterBox {
+    background-color: #ef4141;
+    color: white;
+    height: 400px;
+    width: 450px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.counterBox p {
+    font-size: 3.5rem
+}
+
+button {
+    background-color: #cfc7c7;
+    border-radius: 12px;
+    border: none;
+    padding: 14px 20px;
+    margin-right: 16px;
+    font-size: 1.3rem;
+}
